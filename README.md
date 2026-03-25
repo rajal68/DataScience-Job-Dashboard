@@ -6,7 +6,11 @@ An interactive Tableau dashboard analyzing data science job salaries across role
 
 This project visualizes global data science compensation trends using a dataset of 607 job records. It helps job seekers, hiring managers, and researchers understand how salaries vary by role, experience, company size, and remote work ratio.
 
-## Dashboard
+## Dashboard Preview
+
+![Data Science Jobs Dashboard](assets/dashboard_preview.png)
+
+> Interactive filters available for **Company Location** and **Job Title**
 
 The dashboard is built in Tableau and packaged as `Data science jobs Dashboard.twbx`. Open it with **Tableau Desktop** or **Tableau Public** (free).
 
